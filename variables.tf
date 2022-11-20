@@ -1,13 +1,13 @@
 variable "folder_id" {
   description = "Default folder id"
   type        = string
-  default     = "b1g5t0rli56c6ncp5m3u"
+  default     = ""
 }
 
 variable "cloud_id" {
   description = "Default cloud id"
   type        = string
-  default     = "b1g8i5a5o40jhi2pdq52"
+  default     = ""
 }
 
 variable "zone_a" {
